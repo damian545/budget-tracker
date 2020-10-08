@@ -1,0 +1,24 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "As a user, I want to track my spending when I go on a hoilday. This app will help me track my spending, tracks what I spent my money on and how much I have left in my budget total. I can add money if I need to as well as take money away.. This app can work off line as well..",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian545/budget-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian545/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/damian545/budget-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mongoose": "^5.10.8"
+  }
+}
